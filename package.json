@@ -1,6 +1,6 @@
 {
   "name": "trevmorindotcom",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "TrevMorin.com (English)",
   "main": "app.js",
   "scripts": {
@@ -11,12 +11,12 @@
     "type": "git",
     "url": "https://github.com/Superklok/TrevMorinDotCom.git"
   },
-  "author": "Trev Morin <trev@superklok.com> (https://trevmorin.com)",
+  "author": "Trev Morin <trev@superklok.com> (http://trevmorin.com)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Superklok/TrevMorinDotCom/issues"
   },
-  "homepage": "https://trevmorin.com",
+  "homepage": "http://trevmorin.com",
   "dependencies": {
     "dotenv": "^8.2.0",
     "ejs": "^3.1.5",
