@@ -2,7 +2,7 @@ version: "2.4"
 
 services:
   app:
-    image: trevmorindotcom:1.7.3
+    image: trevmorindotcom:1.8.0
     build: 
       context: .
     ports:
