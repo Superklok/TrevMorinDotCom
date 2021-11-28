@@ -1,4 +1,4 @@
-# TrevMorin.com (English Version) v1.8.4
+# TrevMorin.com (English Version) v1.8.5
 <br />
 
 ## Basic Root User Deployment Guide For App Evaluation
@@ -81,7 +81,7 @@
 <br />
 <br />
 
-### 7. Install dependancies:
+### 7. Install dependencies:
 `cd TrevMorinDotCom/`
 <br />
 
