@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   app:
-    image: trevmorindotcom:1.8.7
+    image: superklok/trevmorindotcom:1.8.8
     build: 
       context: .
     ports:
