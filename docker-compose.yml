@@ -2,12 +2,13 @@ version: "3.8"
 
 services:
   app:
-    image: superklok/trevmorindotcom:1.8.8
+    image: superklok/trevmorindotcom:1.8.10
     build: 
       context: .
+      target: prod
     ports:
       - "80:80"
-    command: node app.js
+    command: npm start
     volumes:
       - .:/app
     environment:
