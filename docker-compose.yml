@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   app:
-    image: superklok/trevmorindotcom:1.8.20
+    image: superklok/trevmorindotcom:1.8.24
     build: 
       context: .
       target: prod

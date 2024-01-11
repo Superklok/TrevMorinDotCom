@@ -1,10 +1,10 @@
-FROM node:17.2.0-alpine3.14 as base
+FROM node:20.10.0-alpine3.19 as base
 LABEL org.opencontainers.image.vendor="Superklok Labs"
 LABEL org.opencontainers.image.authors="trev@superklok.com"
 LABEL org.opencontainers.image.title="TrevMorinDotCom"
 LABEL org.opencontainers.image.description="TrevMorin.com (English)"
-LABEL org.opencontainers.image.version="1.8.20"
-LABEL org.opencontainers.image.created="2022-08-02"
+LABEL org.opencontainers.image.version="1.8.24"
+LABEL org.opencontainers.image.created="2024-01-10"
 LABEL org.opencontainers.image.url="https://hub.docker.com/r/superklok/trevmorindotcom"
 LABEL org.opencontainers.image.source="https://github.com/Superklok/TrevMorinDotCom"
 LABEL org.opencontainers.image.licenses="ISC"
